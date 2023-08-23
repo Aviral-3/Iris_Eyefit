@@ -1,39 +1,40 @@
-# BookWise: Revolutionizing Reading 📚
+# EyeFit Iris: Promote & Maintain Optimal Eye Health 👁️
 
 ## Overview
-BookWise is an API-integrated Book Store App designed to take the experience of reading to the next level. Powered with an MVVM architecture, BookWise not only provides a comprehensive collection of books but also enhances the joy of reading by offering features like day-wise progress tracking and social sharing. Our analytics have shown that these features increase user engagement and satisfaction by 50% and 40% respectively. This project stands as a testament to collaboration, teamwork, and effective interaction.
+EyeFit Iris is a meticulously designed application focused on fostering healthy eye habits. With features ranging from guided meditation to eye exercises, and from recommendations for nourishing foods to comprehensive eye tests, we aim to provide an all-encompassing solution for optimal eye health. Our goal is to ensure everyone has access to resources that keep their eyes robust and resilient.
 
 ## Date
-**Project Duration:** March 23 – May 23
+**Project Duration:** January 23 – March 23
 
 ## Technologies Used 🛠️
 - **Front-end:** Flutter
-- **Back-end:** Node.js, Firebase
+- **Back-end:** Firebase
 - **Programming Language:** Dart
 - **CI/CD:** Codemagic
 - **Development Environment:** Android Studio
 - **Hosting:** Google Cloud
 
 ## Features 🌟
-1. **Day-wise Progress Tracking**: Keep a track of your reading journey and never lose the page you're on.
-2. **Social Sharing**: Flaunt your reading progress and favorite excerpts with friends across various social platforms.
-3. **Engagement Metrics**: Understand your reading habits with detailed metrics and use it to your advantage.
+1. **Guided Meditation**: Engage in peaceful sessions to relax your eyes.
+2. **Eye Exercises**: Follow tailored routines to strengthen your eye muscles.
+3. **Nourishing Food Recommendations**: Discover foods that benefit your eyes.
+4. **Comprehensive Eye Tests**: Regularly test and monitor your eyesight.
 
 ## Team & Role 🤝
-This was a team project where I took on the role of a **Team Leader**. The team consisted of a single member (myself), with the primary responsibility as a **Flutter Developer**. The project showcased exceptional teamwork, efficient collaboration, and effective interaction, yielding outstanding results.
+EyeFit Iris came to life through the collaboration of a dedicated team. As the **Team Leader** of this two-member team, my primary role was that of a **Flutter Developer**. Together, we were able to craft an application that makes eye health both accessible and enjoyable.
 
 ## Setting Up 🔧
 
-To get BookWise up and running on your local machine, follow these steps:
+To get EyeFit Iris running on your local machine:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourgithubusername/bookwise.git
+    git clone https://github.com/yourgithubusername/eyefit-iris.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd bookwise
+    cd eyefit-iris
     ```
 
 3. **Install dependencies**:
@@ -46,14 +47,15 @@ To get BookWise up and running on your local machine, follow these steps:
     flutter run
     ```
 
-> Ensure you have Flutter and Dart SDK set up on your machine. Refer to the official [Flutter documentation](https://flutter.dev/docs/get-started/install) for installation guidance.
+> Note: Ensure Flutter and Dart SDK are installed on your machine. Check the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for guidance.
 
 ## Contributions ✨
-Feel free to submit issues and enhancement requests. We'd love to see your contributions to BookWise!
+We welcome contributions of all kinds! From bug reports to feature suggestions, and from documentation to code, every contribution helps make EyeFit Iris even better.
 
 ## License 📝
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is under the MIT License. Refer to the [LICENSE.md](LICENSE.md) file for more details.
 
 ---
 
-If you enjoy using BookWise or if it helped you in your journey, give it a star ⭐! It means a lot!
+**Your eyes are windows to the world.** With EyeFit Iris, ensure they're always in the best condition. Show your support by giving this project a star ⭐ and sharing with your network!
+
